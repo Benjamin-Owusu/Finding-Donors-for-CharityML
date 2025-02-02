@@ -1,4 +1,5 @@
 # Finding-Donors-for-CharityML
+This repository contains 1 of the 3 projects I completed as part of Udacity's Intro to Machine Learning with PyTorch Nanodegree.
 
 This project entails constructing a model that accurately predicts whether an individual makes more than $50,000 based on a dataset collected from US 1994 Census. I employed 3 main supervised machine learning algorithms namely Logistic regression, support vector machines and Gradient Boosting to model the individual's income. Based on some evaluation metrics from the preliminary results, the best candidate algorithm was chosen and further optimized to model the data.  Furthermore, the most important predictive features from the dataset are extracted/explored, then we conduct an analysis to ascertain of indeed it is worthwhile to train the optimized model with only the selected important features rather than  full features in the dataset
 
